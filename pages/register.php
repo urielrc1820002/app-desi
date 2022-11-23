@@ -167,11 +167,11 @@ include('../config/DbFunction.php');
 	<br><br>		
 		     <div class="form-group">
 			 <div class="col-lg-2">
-			<label>DNI<span id="" style="font-size:11px;color:red">*</span>	</label>
+			<label>dni<span id="" style="font-size:11px;color:red">*</span>	</label>
 			
 			</div>
 			<div class="col-lg-4">
-			<input class="form-control" name="gname" required="required" pattern="[A-Za-z]+$">
+			<input class="form-control" name="gname" >
 			</div>
 			 <div class="col-lg-2">
 			<label>Occupation</label>
